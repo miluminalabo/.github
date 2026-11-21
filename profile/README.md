@@ -1,13 +1,19 @@
 <p align="center">
-  <img src="../logo/urchin-labo.png" alt="Urchin-Labo" width="240">
+  <img src="../logo/milumina-icon.png" alt="MILUMINA" width="240">
 </p>
-<h1 align="center">Urchin-Labo</h1>
+<h1 align="center">MILUMINA</h1>
 <p align="center">
-  A lab for exploring and evaluating AI, security, and emerging technologies.
+  <strong>Illuminating the unknown. Opening up possibilities.</strong>
 </p>
 
 ## About
 
-Urchin-Labo is an organization dedicated to researching and evaluating technologies, with a focus on AI and security.
+MILUMINA is a technology circle driven by curiosity and a spirit of exploration. We research and develop software, infrastructure, and open-source technologies.
 
-We share insights from our research, along with experimental tools and projects developed along the way.
+We value going beyond simply using existing technologies to understand how they work, explore their underlying principles, and discover new possibilities.
+
+Our name brings together the imagery of “Mio,” a Japanese word for a navigable channel through the sea, and “Lumina,” evoking light.
+
+Just as moonlight traces a path across the sea and a lighthouse guides the way, we explore the unknown through technology, connecting what we learn to the next discovery.
+
+**Explore. Understand. Illuminate.**
